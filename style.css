@@ -14,8 +14,8 @@ body {
   margin: 0px 0 0 0px;
 }
 
-#emphasis {
-  color: red;
+.award {
+  color: #b8860b;
   font-weight: bold;
   font-style: italic;
 }
